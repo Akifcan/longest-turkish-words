@@ -1,4 +1,4 @@
-import { words } from '/words.js'
+import { words } from './words.js'
 
 const letters_element = document.querySelector('.letters')
 const words_element = document.querySelector('.words')
